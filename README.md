@@ -135,8 +135,8 @@ Dim. Reduction → PCA
 
 | Project | Description | Stack |
 |---|---|---|
-| [📦 Integration system](https://github.com/Gabriel-Menezes-Morais/Integration-CMMS-ERP) | Python · T-SQL · ETL |
-| [📦 repo2](#) | _Adicione uma breve descrição_ | C · ML |
+| [Integration System](https://github.com/Gabriel-Menezes-Morais/Integration-CMMS-ERP) | _Integration system to increase efficiency_| Python · T-SQL · ETL |
+| [Machine Learning](https://github.com/Gabriel-Menezes-Morais/Machine-Learning-Analysis) | _Projects through machine learning analysis_ | C · ML |
 
 ---
 
