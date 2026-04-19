@@ -136,7 +136,8 @@ Dim. Reduction → PCA
 | Project | Description | Stack |
 |---|---|---|
 | [Integration System](https://github.com/Gabriel-Menezes-Morais/Integration-CMMS-ERP) | _Integration system to increase efficiency_| Python · T-SQL · ETL |
-| [Machine Learning](https://github.com/Gabriel-Menezes-Morais/Machine-Learning-Analysis) | _Projects through machine learning analysis_ | C · ML |
+| [Machine Learning](https://github.com/Gabriel-Menezes-Morais/Machine-Learning-Analysis) | _Projects through machine learning analysis_ | Python · ML |
+| [K-means](https://github.com/Gabriel-Menezes-Morais/Algoritmo-K-means) | _K-means Machine Learning Algorithm made in C_ | C · ML · K-means |
 
 ---
 
