@@ -130,14 +130,14 @@ Dim. Reduction → PCA
 ---
 
 ## 🚀 Featured Projects
-
+<!--
 > 💡 *Substitua os links `#` pelos URLs reais dos seus repositórios*
 
 | Project | Description | Stack |
 |---|---|---|
 | [📦 repo1](#) | _Adicione uma breve descrição_ | Python · SQL |
 | [📦 repo2](#) | _Adicione uma breve descrição_ | C · ML |
-
+-->
 ---
 
 ## 📊 GitHub Stats
