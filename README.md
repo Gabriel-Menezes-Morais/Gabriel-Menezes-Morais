@@ -44,9 +44,11 @@ focus_areas:
   - Scientific Computing
 
 currently_learning:
-  - Combinatorial Optimization
   - Advanced ML algorithms
   - Mathematical modeling for real-world problems
+  - Time Series
+  - Algorithm Analysis
+  - Numerical Calculation
 
 languages:
   - Portuguese (Native)
